@@ -1,0 +1,5 @@
+n = int(input('Введите число - '))
+m = 2 * str(n)
+l = 3 * str(n)
+result = n + int(m) + int(l)
+print(result)
